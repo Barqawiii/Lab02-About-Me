@@ -127,7 +127,7 @@ while (a2 > 0) {
 
 
 
-alert('your Score is:  ' + userScore);
+alert('your Score is:  ' + userScore + '/7');
 
 
 
