@@ -1,5 +1,5 @@
 'use strict';
-
+/*
 let userScore = 0;
 
 // Wellcoming message (asking about user name)
